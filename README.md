@@ -15,3 +15,14 @@ To compile and run the program:
 ```bash
 g++ Adaptive_Image_Restoration.cpp -o AdaptiveImageRestoration
 ./AdaptiveImageRestoration
+```
+
+## Documentation
+- [Usage Guide](docs/usage_guide.md)
+- [Technical Details](docs/technical_details.md)
+
+## Contributing
+We welcome contributions! Please read our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
