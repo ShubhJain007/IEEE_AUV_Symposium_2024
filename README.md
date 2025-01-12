@@ -1,5 +1,7 @@
 # IEEE_AUV_Symposium_2024
 Adaptive Image Restoration and Object Detection and Tracking using Semantic Segmentation and Cross-Correlation based trackers for light-weight embedded devices. This repo contains the implementation for my paper which was presented at AUV Symposium 2024. Kindly find the paper attached in the repo for detailed implemetation and results.
+
+
 <img width="265" alt="Screenshot 2025-01-12 at 1 59 05 PM" src="https://github.com/user-attachments/assets/db4b3d81-56b8-463c-8a0d-10d7dd31a747" />
 # Adaptive Image Restoration
 
