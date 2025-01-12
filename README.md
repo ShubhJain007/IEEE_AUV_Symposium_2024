@@ -4,6 +4,7 @@ Adaptive Image Restoration and Object Detection and Tracking using Semantic Segm
 # Adaptive Image Restoration
 
 This project implements adaptive image restoration techniques with object detection and tracking. It is optimized for lightweight embedded devices and uses semantic segmentation and cross-correlation-based trackers.
+![Uploading image.png…]()
 
 ## Features
 - Adaptive image restoration
